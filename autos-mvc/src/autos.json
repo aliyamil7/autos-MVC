@@ -1,0 +1,74 @@
+[
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2020,
+    "color": "Blanco"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Mustang",
+    "año": 2019,
+    "color": "Rojo"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Camaro",
+    "año": 2021,
+    "color": "Negro"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2018,
+    "color": "Gris"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "año": 2022,
+    "color": "Azul"
+  },
+  {
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "año": 2023,
+    "color": "Blanco"
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "año": 2021,
+    "color": "Negro"
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A4",
+    "año": 2020,
+    "color": "Gris"
+  },
+  {
+    "marca": "Mercedes-Benz",
+    "modelo": "C-Class",
+    "año": 2019,
+    "color": "Azul"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Altima",
+    "año": 2022,
+    "color": "Rojo"
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "206",
+    "año": 2007,
+    "color": "Negro"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Clio",
+    "año": 2010,
+    "color": "Gris"
+  }
+]

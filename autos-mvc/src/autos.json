@@ -70,5 +70,17 @@
     "modelo": "Clio",
     "año": 2010,
     "color": "Gris"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Gol Power",
+    "año": 2009,
+    "color": "Rojo"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "año": 2018,
+    "color": "Negro"
   }
 ]
